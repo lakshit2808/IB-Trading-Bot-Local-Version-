@@ -1,0 +1,7 @@
+- Change Destktop User name in vbs, bat, IbBot.py file
+- pip install pywin32
+- pip install pyautogui
+- pip install win10toast
+- Open Registry Editor and go to following path:
+    - Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+    - Right Click and create new value, name the value as "IbBot" and set the value as "C:\Users\USERNAME\Desktop\IbBot.vbs"

@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\Lakshit\Desktop\Bot_Device\IbBot.bat", 0, True
